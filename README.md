@@ -1,2 +1,2 @@
-# practica_github
-practica conceptual de github
+## Instalación
+Para instalar este proyecto, clona el repositorio y navega al directorio:
